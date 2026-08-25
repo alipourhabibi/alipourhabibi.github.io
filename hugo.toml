@@ -1,4 +1,4 @@
-baseURL = 'https://github.io/alipourhabibi'
+baseURL = 'https://github.io/alipourhabibi/'
 locale = 'en-us'
 title = 'My New Hugo Project'
 theme = ["PaperMod"]
